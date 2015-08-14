@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/coyotebringsfire/env-snapshot/issues"
   },
-  "homepage": "https://github.com/coyotebringsfire/env-snapshot"
+  "homepage": "https://github.com/coyotebringsfire/env-snapshot",
+  "devDependencies": {
+    "should": "^7.0.4"
+  }
 }

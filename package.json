@@ -4,7 +4,7 @@
   "description": "This module consolidates much of the information available from the os and system modules.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",

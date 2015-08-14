@@ -7,10 +7,8 @@ This module consolidates much of the information available from the os and syste
 ## Code Example
 
 ```
-var EnvSnapshot = require('env-snapshot');
-var envSnapshot = new EnvSnapshot({ verbose:true });
+var snap = require('env-snapshot').EnvSnapshot();
 
-envSnapshot();
 { os_type: 'Darwin',
   os_platform: 'darwin',
   os_arch: 'x64',

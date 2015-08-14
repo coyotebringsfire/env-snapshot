@@ -1,0 +1,25 @@
+{
+  "name": "env-snapshot",
+  "version": "0.0.1",
+  "description": "This module consolidates much of the information available from the os and system modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coyotebringsfire/env-snapshot.git"
+  },
+  "keywords": [
+    "test",
+    "process",
+    "os",
+    "env"
+  ],
+  "author": "aumkara@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coyotebringsfire/env-snapshot/issues"
+  },
+  "homepage": "https://github.com/coyotebringsfire/env-snapshot"
+}

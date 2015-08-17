@@ -1,6 +1,6 @@
 {
   "name": "env-snapshot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This module consolidates much of the information available from the os and system modules.",
   "main": "index.js",
   "scripts": {

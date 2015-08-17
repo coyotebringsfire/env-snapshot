@@ -16,7 +16,8 @@ var snap = require('env-snapshot').EnvSnapshot();
   os_uptime: 851114,
   os_loadavg: [ 2.69970703125, 2.28173828125, 2.10693359375 ],
   os_freemem: 19603456, 
-  os_totalmem: 4294967296
+  os_totalmem: 4294967296,
+  os_hostname: "Macintosh.local",
   os_cpus: [ 
     { model: 'Intel(R) Core(TM) i5-2467M CPU @ 1.60GHz',
       speed: 1600,
